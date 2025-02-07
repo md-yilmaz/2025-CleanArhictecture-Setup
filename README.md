@@ -31,7 +31,7 @@ Bu repoda, 2025 yılı için projelerimizde başlangıç olarak kullanabileceği
 ## Kurulum ve Kullanım
 1. **Depoyu Klonlayın**:
    ```bash
-   git clone https://github.com/tanersaydam/2025-clean-architecture-setup.git
+   git clone https://github.com/md-yilmaz/2025-clean-architecture-setup.git
    cd 2025-clean-architecture-setup
 
 2. **Keycloak Docker Kodu**:
